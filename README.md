@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/messaoud-hamdi/">
+  <a href="https://www.linkedin.com/in/messaoudhamdi/">
     <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://messaoudhamdi.vercel.app">
@@ -25,8 +25,8 @@
 
 I'm a passionate Software Engineer with a knack for turning complex problems into elegant solutions. My journey in tech is driven by an insatiable curiosity and a commitment to continuous learning. From backend wizardry to fullstack sorcery, I specialize in crafting robust, scalable, and innovative software solutions.
 
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm currently learning [New Technology or Skill]
+- 🔭 I'm currently working on Ublo.immo
+- 🌱 I'm currently learning Nestjs
 - 👯 I'm looking to collaborate on open-source projects
 - 💬 Ask me about software architecture, backend development, or tech innovations
 
@@ -94,21 +94,14 @@ I'm a passionate Software Engineer with a knack for turning complex problems int
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmdmsd&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
----
-
-## 🏆 Achievements
-
-- [List any notable achievements, awards, or certifications]
-- [Include any significant contributions to open-source projects]
-- [Mention any speaking engagements or publications]
 
 ---
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/messaoud-hamdi/)
-- Email: [Your Email Address]
-- Website: [Your Personal Website](https://messaoudhamdi.vercel.app)
+- LinkedIn: Messaoud Hamdi (https://www.linkedin.com/in/messaoudhamdi/)
+- Email: [messaoud.hamdi.imt@gmail.com]
+- Website: [messaoudhamdi.vercel.app](https://messaoudhamdi.vercel.app)
 
 ---
 
