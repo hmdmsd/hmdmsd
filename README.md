@@ -25,8 +25,8 @@
 
 I'm a passionate Software Engineer with a knack for turning complex problems into elegant solutions. My journey in tech is driven by an insatiable curiosity and a commitment to continuous learning. From backend wizardry to fullstack sorcery, I specialize in crafting robust, scalable, and innovative software solutions.
 
-- 🔭 I'm currently working on Ublo.immo
-- 🌱 I'm currently learning Nestjs
+- 🔭 I'm currently working at Sopra Steria
+- 🌱 I'm currently learning Advanced Java Concepts & Spring Boot
 - 👯 I'm looking to collaborate on open-source projects
 - 💬 Ask me about software architecture, backend development, or tech innovations
 
